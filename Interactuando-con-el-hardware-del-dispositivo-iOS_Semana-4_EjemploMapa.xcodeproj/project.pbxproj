@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					94E6ECB51EE15C9500A850E1 = {
 						CreatedOnToolsVersion = 8.3.1;
-						DevelopmentTeam = 85667CV2UC;
+						DevelopmentTeam = JNY68SR633;
 						ProvisioningStyle = Automatic;
 					};
 					94E6ECC91EE15C9500A850E1 = {
@@ -417,7 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 85667CV2UC;
+				DEVELOPMENT_TEAM = JNY68SR633;
 				INFOPLIST_FILE = "Interactuando-con-el-hardware-del-dispositivo-iOS_Semana-4_EjemploMapa/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.m0rb1u5.Interactuando-con-el-hardware-del-dispositivo-iOS-Semana-4-EjemploMapa";
@@ -430,7 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 85667CV2UC;
+				DEVELOPMENT_TEAM = JNY68SR633;
 				INFOPLIST_FILE = "Interactuando-con-el-hardware-del-dispositivo-iOS_Semana-4_EjemploMapa/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.m0rb1u5.Interactuando-con-el-hardware-del-dispositivo-iOS-Semana-4-EjemploMapa";
